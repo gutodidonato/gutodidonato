@@ -1,11 +1,11 @@
 <div>
-<i class="devicon-python-plain-wordmark colored"></i>
-<i class="devicon-java-plain-wordmark colored"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-html5-plain-wordmark colored"></i>
-<i class="devicon-css3-plain-wordmark colored"></i>
-<i class="devicon-react-original-wordmark colored"></i>
-<i class="devicon-microsoftsqlserver-plain-wordmark"></i>     
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
 </div>
 
 <div>
