@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá_meu_nome_é_Luis;Seja_bem_vindo!)](https://git.io/typing-svg)
 <p>Ferramentas/linguagens/biblioteca/frameworks/IDES que estou utilizando:</p>
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
