@@ -1,6 +1,6 @@
-<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=F70000&vCenter=true&width=435&lines=Meu+nome+%C3%A9+Luis+Augusto;Seja+bem-vindo!)](https://git.io/typing-svg)
-</div>
+
 
 <p align="center">Ferramentas/linguagens/biblioteca/frameworks/IDES que estou utilizando:</p>
 <div align="center">
