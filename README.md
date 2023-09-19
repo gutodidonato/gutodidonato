@@ -1,7 +1,9 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=30&pause=1000&color=F70000&vCenter=true&width=435&lines=Meu+nome+%C3%A9+Luis+Augusto;Seja+bem-vindo!)](https://git.io/typing-svg)
+</div>
 
-<p>Ferramentas/linguagens/biblioteca/frameworks/IDES que estou utilizando:</p>
-<div>
+<p align="center">Ferramentas/linguagens/biblioteca/frameworks/IDES que estou utilizando:</p>
+<div align="center">
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
