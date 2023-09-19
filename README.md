@@ -1,4 +1,5 @@
 <div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />    
 <i class="devicon-python-plain-wordmark colored"></i>
 <i class="devicon-java-plain-wordmark colored"></i>
 <i class="devicon-javascript-plain colored"></i>
