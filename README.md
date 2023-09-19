@@ -1,4 +1,5 @@
-
+https://github.com/gutodidonato/gutodidonato/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/gutodidonato/gutodidonato/blob/output/github-contribution-grid-snake.gif)
 <p>Ferramentas/linguagens/biblioteca/frameworks/IDES que estou utilizando:</p>
 <div>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
