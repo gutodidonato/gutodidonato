@@ -1,4 +1,13 @@
 
+<div style="display:flex; flex-direction: row;">
+<i class="devicon-python-plain-wordmark colored"></i>
+<i class="devicon-java-plain-wordmark colored"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-html5-plain-wordmark colored"></i>
+<i class="devicon-css3-plain-wordmark colored"></i>
+<i class="devicon-react-original-wordmark colored"></i>
+<i class="devicon-microsoftsqlserver-plain-wordmark"></i>     
+</div>
 
 <div>
 <a href="https://www.youtube.com/gutodidonato" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
