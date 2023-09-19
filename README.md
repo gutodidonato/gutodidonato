@@ -1,4 +1,4 @@
-https://github.com/gutodidonato/gutodidonato/blob/output/github-contribution-grid-snake.gif
+
 ![snake gif](https://github.com/gutodidonato/gutodidonato/blob/output/github-contribution-grid-snake.gif)
 <p>Ferramentas/linguagens/biblioteca/frameworks/IDES que estou utilizando:</p>
 <div>
