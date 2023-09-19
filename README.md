@@ -38,5 +38,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gutodidonato/gutodidonato/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gutodidonato)](https://github.com/anuraghazra/github-readme-stats)
 
