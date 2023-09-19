@@ -1,5 +1,4 @@
-
-<div style="display:flex; flex-direction: row;">
+<div>
 <i class="devicon-python-plain-wordmark colored"></i>
 <i class="devicon-java-plain-wordmark colored"></i>
 <i class="devicon-javascript-plain colored"></i>
