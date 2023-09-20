@@ -41,6 +41,5 @@
 
 <div align="center">
   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gutodidonato)](https://github.com/anuraghazra/github-readme-stats)
-  <br/><br/><br/>
 </div>
 
