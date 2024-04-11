@@ -15,6 +15,8 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+<img loading="lazy" src="https://icons8.com/icon/cHBUT9SmrD2V/typescript" width="40" height="40"/>
+<img loading="lazy" src="https://icons8.com/icon/mhwmyz1eu7T5/c-sharp-logo" width="40" height="40"/>
 <br/><br/><br/>
 </div>
 <div>
