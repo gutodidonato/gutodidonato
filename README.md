@@ -1,7 +1,7 @@
 <h1 align="center">
   🚀 Bem-vindo! Eu sou o Luis 🚀
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16A085&center=true&width=435&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Inovação+e+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16A085&center=true&width=435&lines=Desenvolvedor+Full-Stack;Inovação+e+Tecnologia" alt="Typing SVG" />
 </h1>
 
 ---
@@ -24,9 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
 </p>
 
 <h3 align="center">Frameworks & Bibliotecas</h3>
