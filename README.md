@@ -93,23 +93,26 @@
 </p>
 
 ---
-
 <h2 align="center">🛠️ Projetos Notáveis 🛠️</h2>
-<!--
 <ul>
   <li>
-    <b>[Projeto de Automação](https://github.com/seuprojeto1)</b>: Um bot avançado para automação de tarefas.
+    <b><a href="https://gutodidonato-start.streamlit.app/" target="_blank">Aplicativo de Vendas com Streamlit + LLM</a></b>:  
+    Uma solução interativa desenvolvida com Streamlit, integrada a modelos de linguagem (LLMs) para análise de vendas e sugestões inteligentes.  
+    <i>Principais funcionalidades:</i>
+    <ul>
+      <li>Visualização de dados em tempo real</li>
+      <li>Sugestões baseadas em IA</li>
+      <li>Interface amigável e responsiva</li>
+    </ul>
   </li>
   <li>
-    <b>[E-commerce Inteligente](https://github.com/seuprojeto2)</b>: Loja online com análise de comportamento de usuário.
+    <b>[Projeto 2]</b>: Em construção... 🚧
   </li>
   <li>
-    <b>[Sistema de Gerenciamento](https://github.com/seuprojeto3)</b>: Plataforma para gerenciamento de empresas.
+    <b>[Projeto 3]</b>: Em construção... 🚧
   </li>
 </ul>
--->
-- [Projeto 1]([https://github.com/](https://gutodidonato-start.streamlit.app/)): Aplicativo de Vendas Streamlit + LLM 
----
+
 
 <h2 align="center">🚀 Meus Objetivos</h2>
 <ul>
