@@ -105,9 +105,19 @@
       <li>Interface amigável e responsiva</li>
     </ul>
   </li>
+  
   <li>
-    <b>[Projeto 2]</b>: Em construção... 🚧
+    <b><a href="https://luishtml.com/" target="_blank">Portfolio + Django + UX + AWS </a></b>:  
+    Desenvolvimento Fullstack focado em UX, site inspirador, focado em seguir uma linha de design voltado ao encantamento do usuário, e a linha estética focada no tech.
+    <i>Principais características do Projeto</i>
+    <ul>
+      <li>Backend: Django + PostgreeSQL</li>
+      <li>Frontend: HTML, CSS, JS vanilla </li>
+      <li>Desenvolvimento focado em UX, Responsivo</li>
+      <li>Deploy na AWS</li>
+    </ul>
   </li>
+  
   <li>
     <b>[Projeto 3]</b>: Em construção... 🚧
   </li>
