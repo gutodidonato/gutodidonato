@@ -1,10 +1,6 @@
 <h1 align="center">
   🚀 Bem-vindo! Eu sou o Luis 🚀
-  <br>
 </h1>
-
----
-
 <h2 align="center">🌌 Sobre Mim 🌌</h2>
 <p align="center">
   Olá! Sou um desenvolvedor Full-Stack com experiência em criar soluções tecnológicas que resolvem problemas do mundo real.  
