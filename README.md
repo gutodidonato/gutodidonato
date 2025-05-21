@@ -1,7 +1,6 @@
 <h1 align="center">
   🚀 Bem-vindo! Eu sou o Luis 🚀
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=16A085&center=true&width=435&lines=Desenvolvedor+Full-Stack;Inovação+e+Tecnologia" alt="Typing SVG" />
 </h1>
 
 ---
